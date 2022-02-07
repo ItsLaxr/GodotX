@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://godotengine.org">
-    <img src="logo_outlined.png" width="400" alt="GodotX Logo">
+    <img src="logo_outlined.svg" width="400" alt="GodotX Logo">
   </a>
 </p>
 
